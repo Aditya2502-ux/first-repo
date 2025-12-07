@@ -1,4 +1,4 @@
 # first-repo
 this is first github repository 
 <br>
-Author-Aditya Ankaskar
+Author-Aditya A
